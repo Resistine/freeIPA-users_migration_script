@@ -17,7 +17,7 @@ make sure you have installed python-freeipa via pip or system package manager
 <br><br><br><br><br><br><br>
 
 _______
-#### Copyright 2003 Resistine
+#### Copyright 2025 Resistine
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
