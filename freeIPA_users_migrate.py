@@ -1,3 +1,15 @@
+#!/bin/env python
+
+#
+# This script is to build specific Wazuh dashboard.
+# If the branch name is not provided, it will only pull/clone without checkout.
+#
+# Author: MrFrace/Francis
+# Copyright (c) Resistine 2025
+# Licensed under the Apache License 2.0
+#
+
+
 import argparse
 import json
 import subprocess
